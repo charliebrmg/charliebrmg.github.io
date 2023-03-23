@@ -1,21 +1,21 @@
 h1 {
-    font: bold 16px Arial, sans-serif;
+    font: 16px Arial;
 }
 h2 {
-    font: bold 14px Arial, sans-serif;
+    font: 14px Arial;
 }
 h3 {
-    font: 14px Arial, sans-serif;
+    font: 14px Arial;
 }
 h4, p {
-    font: 12px Arial, sans-serif;
+    font: 12px Arial;
 }
 html {
     background-color: white;
     color: black;
 }
 ul,ol,li {
-    font: 14px Arial, sans-serif;
+    font: 14px Arial;
 }
 ul {
     list-style-type: circle;
@@ -24,8 +24,8 @@ ol {
     list-style-type: decimal;
 }
 th {
-    font: bold 14px Arial, sans-serif;
+    font: 14px Arial;
 }
 tr {
-    font: 14px Arial, sans-serif;
+    font: 14px Arial;
 }
